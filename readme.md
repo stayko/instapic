@@ -1,6 +1,6 @@
 # Instapic
 
-A simple React + Redux implementation of a Instagram like App. Followed a tutorial by [wesbos](https://github.com/wesbos).
+A simple React + Redux implementation of an Instagram like App. Followed a tutorial by [wesbos](https://github.com/wesbos).
 
 ## Running
 
